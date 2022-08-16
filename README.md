@@ -7,7 +7,7 @@ A commandline utility to list contents of directories in a tree-like format. Ins
 `pine` can be installed globally with npm.
 
 ```shell
-  npm install -g
+  npm install -g @wondrous/pine
 ```
 
 ## Usage
