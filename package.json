@@ -1,0 +1,17 @@
+{
+	"name": "pine",
+	"version": "1.0.0",
+	"description": "A commandline utility to list contents of directories in a tree-like format. Inspired by tree(1) and du(1).",
+	"main": "cli.js",
+	"author": "Berk Guler",
+	"license": "MIT",
+	"dependencies": {
+		"chalk": "^5.0.1",
+		"meow": "^10.1.3",
+		"pretty-bytes": "^6.0.0"
+	},
+  "type": "module",
+	"bin": {
+		"pine": "./cli.js"
+	}
+}
